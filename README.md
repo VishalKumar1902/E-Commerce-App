@@ -68,7 +68,7 @@ This project is a fully functional e-commerce web application built using **Reac
 ## Hosted Application
 
 The application is live and available at:  
-[Deployed Application](https://rbac-ecommerce.netlify.app/login)
+[Deployed Application](https://rbac-ecommerce.netlify.app)
 
 ### Test Credentials
 
